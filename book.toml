@@ -1,0 +1,6 @@
+[book]
+authors = ["Regina"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Marketing Handbook"
