@@ -1,2 +1,2 @@
-# Chapter 2 - Events
+# Chapter 2 - Marketing for Events
 

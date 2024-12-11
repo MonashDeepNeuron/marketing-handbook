@@ -1,6 +1,6 @@
 # Chapter 2.1
 
-Marketing for Events:
+## Marketing for Events: The creation of the MRP Framework
 
 This is for **team members directly involved with events**, providing them with a clear outline of the information required to market the event accurately and effectively.
 
@@ -33,10 +33,11 @@ The purpose of this framework is to improve collaboration across departments, al
 Providing advance notice of an upcoming event alone is insufficient for effective planning. To ensure our team can adequately support the initiative, all relevant information must be submitted to the Marketing  or  the  Business Lead **at least three weeks in advance** of the event.
 
 **That's why...**
-**This checklist ensures that marketing has the essential details needed to begin planning and promoting the event effectively.**
+**using this checklist ensures that marketing has the essential details needed to begin planning and promoting the event effectively.**
 
 Feel free to copy this onto any meeting notes/discord chat as a checklist to track for your convenience - this can be submitted to the @Marketing  or  the Business Lead **at least three weeks in advance** of the event via discord:
 
+-------------------------------------------------- 
 ## Marketing Prerequisite Checklist
 
 - [ ]  **Event Name:** [NAME OF EVENT]
@@ -48,3 +49,7 @@ Feel free to copy this onto any meeting notes/discord chat as a checklist to tra
 
 - **Brief Description of Event:** Why should people attend? (any details you would like passed onto marketing), *I**s this one event or a series event? ex. HPC 3-Part Workshop series***
 - **Target Audience:** Describe the intended audience (e.g., age range, specific departments, industry areas like IT/engineering).
+
+
+-------------------------------------------------------
+
